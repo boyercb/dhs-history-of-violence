@@ -9,6 +9,16 @@ output:
     number_sections: true
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = FALSE, echo = TRUE)
+```
+
+```{r prep, include=FALSE}
+source("2_R/0_packages.R")
+source("2_R/1_create_dataset.R")
+source("2_R/2_clean.R")
+```
+
 # Introduction
 
 ## Abstract
