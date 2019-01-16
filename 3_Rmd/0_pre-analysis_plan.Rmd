@@ -1,0 +1,36 @@
+---
+title: "Pre-Analysis Plan: An outcome-wide analysis of exposure to violence in childhood using DHS data"
+author: "Christopher Boyer"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+---
+
+# Introduction
+
+## Abstract
+
+## Motivation
+
+# Research Design
+
+## Data Sources
+
+## Exposure Definition
+
+## Selection of Outcomes
+
+## Selection of Confounders
+
+# Empirical Analysis
+
+## Estimation Strategy
+
+## Adjustment for Multiple Hypotheses
+
+## Sensitivity Analyses
+
+# Appendices
