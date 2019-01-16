@@ -1,0 +1,52 @@
+code,name,type,dv_module,available
+"AO71","Angola 2015-16","Standard DHS",Yes,Yes
+"BF62","Burkina Faso 2010","Standard DHS",Yes,Yes
+"BU70","Burundi 2016-17","Standard DHS",Yes,Yes
+"CM61","Cameroon 2011","Standard DHS",Yes,Yes
+"CM44","Cameroon 2004","Standard DHS",Yes,Yes
+"","Cape Verde 2005","Standard DHS",Yes,No
+"TD71","Chad 2014-15","Standard DHS",Yes,Yes
+"KM61","Comoros 2012","Standard DHS",Yes,Yes
+"CD61","Congo Democratic Republic 2013-14","Standard DHS",Yes,Yes
+"CD50","Congo Democratic Republic 2007","Standard DHS",Yes,Yes
+"CI62","Cote d'Ivoire 2011-12","Standard DHS",Yes,Yes
+"CI50","Cote d'Ivoire 2005","Standard AIS",Yes,Yes
+"","Equatorial Guinea 2011","Standard DHS",Yes,No
+"ET70","Ethiopia 2016","Standard DHS",Yes,Yes
+"GA60","Gabon 2012","Standard DHS",Yes,Yes
+"GM60","Gambia 2013","Standard DHS",Yes,Yes
+"GH5A","Ghana 2008","Standard DHS",Yes,Yes
+"KE71","Kenya 2014","Standard DHS",Yes,Yes
+"KE52","Kenya 2008-09","Standard DHS",Yes,Yes
+"KE42","Kenya 2003","Standard DHS",Yes,Yes
+"LB51","Liberia 2007","Standard DHS",Yes,Yes
+"MW7H","Malawi 2015-16","Standard DHS",Yes,Yes
+"MW61","Malawi 2010","Standard DHS",Yes,Yes
+"MW4E","Malawi 2004","Standard DHS",Yes,Yes
+"ML6H","Mali 2012-13","Standard DHS",Yes,Yes
+"ML53","Mali 2006","Standard DHS",Yes,Yes
+"MZ71","Mozambique 2015","Standard AIS",Yes,Yes
+"MZ62","Mozambique 2011","Standard DHS",Yes,Yes
+"NM61","Namibia 2013","Standard DHS",Yes,Yes
+"NG6A","Nigeria 2013","Standard DHS",Yes,Yes
+"NG53","Nigeria 2008","Standard DHS",Yes,Yes
+"RW70","Rwanda 2014-15","Standard DHS",Yes,Yes
+"RW61","Rwanda 2010","Standard DHS",Yes,Yes
+"RW53","Rwanda 2005","Standard DHS",Yes,Yes
+"ST50","Sao Tome and Principe 2008-09","Standard DHS",Yes,Yes
+"SL61","Sierra Leone 2013","Standard DHS",Yes,Yes
+"","South Africa 2003","Standard DHS",Yes,No
+"ZA31","South Africa 1998","Standard DHS",Yes,Yes
+"TZ7A","Tanzania 2015-16","Standard DHS",Yes,Yes
+"TZ63","Tanzania 2010","Standard DHS",Yes,Yes
+"TG61","Togo 2013-14","Standard DHS",Yes,Yes
+"UG7A","Uganda 2016","Standard DHS",Yes,Yes
+"UG60","Uganda 2011","Standard DHS",Yes,Yes
+"UG52","Uganda 2006","Standard DHS",Yes,Yes
+"UG3B","Uganda 1995-96","In Depth",Yes,Yes
+"ZM61","Zambia 2013-14","Standard DHS",Yes,Yes
+"ZM51","Zambia 2007","Standard DHS",Yes,Yes
+"ZM42","Zambia 2001-02","Standard DHS",Yes,Yes
+"ZW71","Zimbabwe 2015","Standard DHS",Yes,Yes
+"ZW62","Zimbabwe 2010-11","Standard DHS",Yes,Yes
+"ZW52","Zimbabwe 2005-06","Standard DHS",Yes,Yes
