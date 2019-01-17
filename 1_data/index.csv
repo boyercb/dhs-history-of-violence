@@ -1,52 +1,117 @@
-code,name,type,dv_module,available
-"AO71","Angola 2015-16","Standard DHS",Yes,Yes
-"BF62","Burkina Faso 2010","Standard DHS",Yes,Yes
-"BU70","Burundi 2016-17","Standard DHS",Yes,Yes
-"CM61","Cameroon 2011","Standard DHS",Yes,Yes
-"CM44","Cameroon 2004","Standard DHS",Yes,Yes
-"","Cape Verde 2005","Standard DHS",Yes,No
-"TD71","Chad 2014-15","Standard DHS",Yes,Yes
-"KM61","Comoros 2012","Standard DHS",Yes,Yes
-"CD61","Congo Democratic Republic 2013-14","Standard DHS",Yes,Yes
-"CD50","Congo Democratic Republic 2007","Standard DHS",Yes,Yes
-"CI62","Cote d'Ivoire 2011-12","Standard DHS",Yes,Yes
-"CI50","Cote d'Ivoire 2005","Standard AIS",Yes,Yes
-"","Equatorial Guinea 2011","Standard DHS",Yes,No
-"ET70","Ethiopia 2016","Standard DHS",Yes,Yes
-"GA60","Gabon 2012","Standard DHS",Yes,Yes
-"GM60","Gambia 2013","Standard DHS",Yes,Yes
-"GH5A","Ghana 2008","Standard DHS",Yes,Yes
-"KE71","Kenya 2014","Standard DHS",Yes,Yes
-"KE52","Kenya 2008-09","Standard DHS",Yes,Yes
-"KE42","Kenya 2003","Standard DHS",Yes,Yes
-"LB51","Liberia 2007","Standard DHS",Yes,Yes
-"MW7H","Malawi 2015-16","Standard DHS",Yes,Yes
-"MW61","Malawi 2010","Standard DHS",Yes,Yes
-"MW4E","Malawi 2004","Standard DHS",Yes,Yes
-"ML6H","Mali 2012-13","Standard DHS",Yes,Yes
-"ML53","Mali 2006","Standard DHS",Yes,Yes
-"MZ71","Mozambique 2015","Standard AIS",Yes,Yes
-"MZ62","Mozambique 2011","Standard DHS",Yes,Yes
-"NM61","Namibia 2013","Standard DHS",Yes,Yes
-"NG6A","Nigeria 2013","Standard DHS",Yes,Yes
-"NG53","Nigeria 2008","Standard DHS",Yes,Yes
-"RW70","Rwanda 2014-15","Standard DHS",Yes,Yes
-"RW61","Rwanda 2010","Standard DHS",Yes,Yes
-"RW53","Rwanda 2005","Standard DHS",Yes,Yes
-"ST50","Sao Tome and Principe 2008-09","Standard DHS",Yes,Yes
-"SL61","Sierra Leone 2013","Standard DHS",Yes,Yes
-"","South Africa 2003","Standard DHS",Yes,No
-"ZA31","South Africa 1998","Standard DHS",Yes,Yes
-"TZ7A","Tanzania 2015-16","Standard DHS",Yes,Yes
-"TZ63","Tanzania 2010","Standard DHS",Yes,Yes
-"TG61","Togo 2013-14","Standard DHS",Yes,Yes
-"UG7A","Uganda 2016","Standard DHS",Yes,Yes
-"UG60","Uganda 2011","Standard DHS",Yes,Yes
-"UG52","Uganda 2006","Standard DHS",Yes,Yes
-"UG3B","Uganda 1995-96","In Depth",Yes,Yes
-"ZM61","Zambia 2013-14","Standard DHS",Yes,Yes
-"ZM51","Zambia 2007","Standard DHS",Yes,Yes
-"ZM42","Zambia 2001-02","Standard DHS",Yes,Yes
-"ZW71","Zimbabwe 2015","Standard DHS",Yes,Yes
-"ZW62","Zimbabwe 2010-11","Standard DHS",Yes,Yes
-"ZW52","Zimbabwe 2005-06","Standard DHS",Yes,Yes
+code,name,region,type,dv_module,available
+"AO71","Angola 2015-16","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"BF62","Burkina Faso 2010","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"BU70","Burundi 2016-17","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"CM61","Cameroon 2011","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"CM44","Cameroon 2004","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"","Cape Verde 2005","Sub-Saharan Africa","Standard DHS",Yes,No
+"TD71","Chad 2014-15","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"KM61","Comoros 2012","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"CD61","Congo Democratic Republic 2013-14","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"CD50","Congo Democratic Republic 2007","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"CI62","Cote d'Ivoire 2011-12","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"CI50","Cote d'Ivoire 2005","Sub-Saharan Africa","Standard AIS",Yes,Yes
+"","Equatorial Guinea 2011","Sub-Saharan Africa","Standard DHS",Yes,No
+"ET70","Ethiopia 2016","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"GA60","Gabon 2012","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"GM60","Gambia 2013","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"GH5A","Ghana 2008","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"KE71","Kenya 2014","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"KE52","Kenya 2008-09","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"KE42","Kenya 2003","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"LB51","Liberia 2007","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"MW7H","Malawi 2015-16","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"MW61","Malawi 2010","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"MW4E","Malawi 2004","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"ML6H","Mali 2012-13","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"ML53","Mali 2006","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"MZ71","Mozambique 2015","Sub-Saharan Africa","Standard AIS",Yes,Yes
+"MZ62","Mozambique 2011","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"NM61","Namibia 2013","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"NG6A","Nigeria 2013","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"NG53","Nigeria 2008","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"RW70","Rwanda 2014-15","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"RW61","Rwanda 2010","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"RW53","Rwanda 2005","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"ST50","Sao Tome and Principe 2008-09","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"SL61","Sierra Leone 2013","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"","South Africa 2003","Sub-Saharan Africa","Standard DHS",Yes,No
+"ZA31","South Africa 1998","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"TZ7A","Tanzania 2015-16","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"TZ63","Tanzania 2010","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"TG61","Togo 2013-14","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"UG7A","Uganda 2016","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"UG60","Uganda 2011","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"UG52","Uganda 2006","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"UG3B","Uganda 1995-96","Sub-Saharan Africa","In Depth",Yes,Yes
+"ZM61","Zambia 2013-14","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"ZM51","Zambia 2007","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"ZM42","Zambia 2001-02","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"ZW71","Zimbabwe 2015","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"ZW62","Zimbabwe 2010-11","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"ZW52","Zimbabwe 2005-06","Sub-Saharan Africa","Standard DHS",Yes,Yes
+"AL71","Albania 2017-18","North Africa/West Asia/Europe","Standard DHS",Yes,Yes
+"AM72","Armenia 2015-16","North Africa/West Asia/Europe","Standard DHS",Yes,Yes
+"AZ52","Azerbaijan 2006","North Africa/West Asia/Europe","Standard DHS",Yes,Yes
+"EG61","Egypt 2014","North Africa/West Asia/Europe","Standard DHS",Yes,Yes
+"EG51","Egypt 2005","North Africa/West Asia/Europe","Standard DHS",Yes,Yes
+"EG33","Egypt 1995","North Africa/West Asia/Europe","Standard DHS",Yes,Yes
+"JO6C","Jordan 2012","North Africa/West Asia/Europe","Standard DHS",Yes,Yes
+"JO51","Jordan 2007","North Africa/West Asia/Europe","Standard DHS",Yes,Yes
+"MB52","Moldova 2005","North Africa/West Asia/Europe","Standard DHS",Yes,Yes
+"UA51","Ukraine 2007","North Africa/West Asia/Europe","Standard DHS",Yes,Yes
+"YE61","Yemen 2013","North Africa/West Asia/Europe","Standard DHS",Yes,Yes
+"KY61","Kyrgyz Republic 2012","Central Asia","Standard DHS",Yes,Yes
+"TJ70","Tajikistan 2017","Central Asia","Standard DHS",Yes,Yes
+"TJ61","Tajikistan 2012","Central Asia","Standard DHS",Yes,Yes
+"","Turkmenistan 2000","Central Asia","Standard DHS",Yes,No
+"AF70","Afghanistan 2015","South & Southeast Asia","Standard DHS",Yes,Yes
+"BD51","Bangladesh 2007","South & Southeast Asia","Standard DHS",Yes,Yes
+"BD4J","Bangladesh 2004","South & Southeast Asia","Standard DHS",Yes,Yes
+"KH73","Cambodia 2014","South & Southeast Asia","Standard DHS",Yes,Yes
+"KH51","Cambodia 2005","South & Southeast Asia","Standard DHS",Yes,Yes
+"KH42","Cambodia 2000","South & Southeast Asia","Standard DHS",Yes,Yes
+"IA74","India 2015-16","South & Southeast Asia","Standard DHS",Yes,Yes
+"IA52","India 2005-06","South & Southeast Asia","Standard DHS",Yes,Yes
+"IA42","India 1998-99","South & Southeast Asia","Standard DHS",Yes,Yes
+"MM71","Myanmar 2015-16","South & Southeast Asia","Standard DHS",Yes,Yes
+"NP7H","Nepal 2016","South & Southeast Asia","Standard DHS",Yes,Yes
+"NP60","Nepal 2011","South & Southeast Asia","Standard DHS",Yes,Yes
+"PK61","Pakistan 2012-13","South & Southeast Asia","Standard DHS",Yes,Yes
+"PH70","Philippines 2017","South & Southeast Asia","Standard DHS",Yes,Yes
+"PH61","Philippines 2013","South & Southeast Asia","Standard DHS",Yes,Yes
+"PH52","Philippines 2008","South & Southeast Asia","Standard DHS",Yes,Yes
+"PH3I","Philippines 1993","South & Southeast Asia","In Depth",Yes,Yes
+"TL71","Timor-Leste 2016","South & Southeast Asia","Standard DHS",Yes,Yes
+"TL61","Timor-Leste 2009-10","South & Southeast Asia","Standard DHS",Yes,Yes
+"BO51","Bolivia 2008","Latin America & Caribbean","Standard DHS",Yes,Yes
+"BO41","Bolivia 2003","Latin America & Caribbean","Standard DHS",Yes,Yes
+"CO72","Colombia 2015","Latin America & Caribbean","Standard DHS",Yes,Yes
+"CO61","Colombia 2010","Latin America & Caribbean","Standard DHS",Yes,Yes
+"CO53","Colombia 2005","Latin America & Caribbean","Standard DHS",Yes,Yes
+"CO41","Colombia 2000","Latin America & Caribbean","Standard DHS",Yes,Yes
+"CO31","Colombia 1995","Latin America & Caribbean","Standard DHS",Yes,Yes
+"CO22","Colombia 1990","Latin America & Caribbean","Standard DHS",Yes,Yes
+"DR61","Dominican Republic 2013","Latin America & Caribbean","Standard DHS",Yes,Yes
+"DR6A","Dominican Republic 2013","Latin America & Caribbean","Special DHS",Yes,Yes
+"DR52","Dominican Republic 2007","Latin America & Caribbean","Standard DHS",Yes,Yes
+"DR5A","Dominican Republic 2007","Latin America & Caribbean","Special DHS",Yes,Yes
+"DR4A","Dominican Republic 2002","Latin America & Caribbean","Standard DHS",Yes,Yes
+"DR41","Dominican Republic 1999","Latin America & Caribbean","Standard DHS",Yes,Yes
+"GU71","Guatemala 2014-15","Latin America & Caribbean","Standard DHS",Yes,Yes
+"HT70","Haiti 2016-17","Latin America & Caribbean","Standard DHS",Yes,Yes
+"HT61","Haiti 2012","Latin America & Caribbean","Standard DHS",Yes,Yes
+"HT52","Haiti 2005-06","Latin America & Caribbean","Standard DHS",Yes,Yes
+"HT42","Haiti 2000","Latin America & Caribbean","Standard DHS",Yes,Yes
+"HN62","Honduras 2011-12","Latin America & Caribbean","Standard DHS",Yes,Yes
+"HN52","Honduras 2005-06","Latin America & Caribbean","Standard DHS",Yes,Yes
+"NC31","Nicaragua 1998","Latin America & Caribbean","Standard DHS",Yes,Yes
+"","Peru 2014","Latin America & Caribbean","Continuous DHS",Yes,No
+"","Peru 2013","Latin America & Caribbean","Continuous DHS",Yes,No
+"PE6I","Peru 2012","Latin America & Caribbean","Continuous DHS",Yes,Yes
+"PE6A","Peru 2011","Latin America & Caribbean","Continuous DHS",Yes,Yes
+"PE61","Peru 2010","Latin America & Caribbean","Continuous DHS",Yes,Yes
+"PE5I","Peru 2009","Latin America & Caribbean","Continuous DHS",Yes,Yes
+"PE5A","Peru 2007-08","Latin America & Caribbean","Continuous DHS",Yes,Yes
+"PE51","Peru 2004-06","Latin America & Caribbean","Continuous DHS",Yes,Yes
+"PE41","Peru 2000","Latin America & Caribbean","Standard DHS",Yes,Yes
